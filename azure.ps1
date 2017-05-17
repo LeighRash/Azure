@@ -1,3 +1,5 @@
 Get-AzureRmResourceGroup
 Get-AzureRmResource
-get-azurerm
+get-azurermvm
+Get-AzureBatchCertificate
+Move-AzureRmDataLakeStoreItem
