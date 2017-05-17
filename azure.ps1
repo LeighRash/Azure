@@ -1,1 +1,3 @@
 Get-AzureRmResourceGroup
+Get-AzureRmResource
+get-azurerm
