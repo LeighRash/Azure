@@ -3,3 +3,4 @@ Get-AzureRmResource
 get-azurermvm
 Get-AzureBatchCertificate
 Move-AzureRmDataLakeStoreItem
+Move-ItemProperty
